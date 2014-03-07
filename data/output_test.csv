@@ -1,0 +1,3 @@
+"input_string","address_id","address_status","full_address","zip_code","ward","cluster","census_tract","vote_precinct","latitude","longitude","mar_confidence"
+"1133 15th St NW","240246","ACTIVE","1133 15TH STREET NW","20005","Ward 2","Cluster 8","010100","Precinct 17","38.90485393","-77.03402155","100"
+"50 Massachusetts Ave NE","293243","ACTIVE","50 MASSACHUSETTS AVENUE NE","20002","Ward 6","Cluster 25","010600","Precinct 83","38.89753880","-77.00617913","100"
