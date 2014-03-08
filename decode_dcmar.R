@@ -4,9 +4,8 @@ source("tomkit.R")
 ## Load Data Here
 responses <- read.csv('./data/student_responses_test.csv')
 
-## Build a better parser
+## Build a better parser at some point.
 Scrub <- function(x){
-
 	x <- gsub('\\.', '', x)
 	x <- gsub('\\,', '', x)
 	x <- gsub('#', '', x)
